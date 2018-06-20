@@ -31,7 +31,7 @@ The goals / steps of this project are the following:
 
 #### 1. Explain how (and identify where in your code) you extracted HOG features from the training images.
 
-The code for this step is contained in the third code cell of the IPython notebook [Here](https://github.com/PeeJay/CarND-Vehicle-Detection/blob/master/Readme.md)
+The code for this step is contained in the third code cell of the IPython notebook [Here](https://github.com/PeeJay/CarND-Vehicle-Detection/blob/master/Code.ipynb)
 
 I started by reading in all the `vehicle` and `non-vehicle` images.  Here is an example of one of each of the `vehicle` and `non-vehicle` classes:
 
